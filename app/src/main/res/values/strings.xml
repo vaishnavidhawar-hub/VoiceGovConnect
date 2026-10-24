@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VoiceGov AI</string>
+    <string name="voicegov_ai">VoiceGov AI</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="select_language">Select Language</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="voice_assistant">Voice Assistant</string>
+    <string name="schemes">Government Schemes</string>
+    <string name="exams">Competitive Exams</string>
+    <string name="scholarships">Scholarships</string>
+    <string name="jobs">Government Jobs</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+</resources>
